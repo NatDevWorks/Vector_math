@@ -1,6 +1,5 @@
 /**
  * Author: Nathan Douangkesone
- * Date: 1/24/2024
  * Vector_Math_Program adds, subtracts, or finds
  * the magnitude of vectors based on the user's input.
  */
